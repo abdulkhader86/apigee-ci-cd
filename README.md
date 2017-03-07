@@ -1,4 +1,4 @@
-# Continuous Integration for Apigee Proxies using Maven - demo Saravana Roche
+# Continuous Integration for Apigee Proxies using Maven - demo
 
 ![CI for Apigee Proxies](docs/images/apigee-ci.png)
 
