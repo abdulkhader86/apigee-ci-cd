@@ -1,4 +1,4 @@
-# Continuous Integration for Apigee Proxies using Maven - Allianz
+# Continuous Integration for Apigee Proxies using Maven - Allianz CI & CD Demo
 
 ![CI for Apigee Proxies](docs/images/apigee-ci.png)
 
