@@ -1,4 +1,4 @@
-# Continuous Integration for Apigee Proxies using Maven - Saravanakumar Rajagopal Apigee
+# Continuous Integration for Apigee Proxies using Maven - Saravanakumar Rajagopal
 
 ![CI for Apigee Proxies](docs/images/apigee-ci.png)
 
