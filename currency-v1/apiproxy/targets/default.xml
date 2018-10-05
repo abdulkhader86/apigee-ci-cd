@@ -49,7 +49,7 @@
 	</PostFlow>
 
 	<HTTPTargetConnection>
-		<URL>https://data.fixer.io/api/{flow.target.resource}?access_key=b0dc31df7a7a7bc9c7600260411e32f2</URL>
+		<URL>http://data.fixer.io/api/{flow.target.resource}?access_key=b0dc31df7a7a7bc9c7600260411e32f2</URL>
 	</HTTPTargetConnection>
 
 </TargetEndpoint>
